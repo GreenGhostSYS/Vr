@@ -1,0 +1,36 @@
+{
+    "External": {
+        "Ver": 1.0,
+        "GameData": {
+            "Variants": {
+                "armeabi-v7a": {
+                    "1": {
+                        "Name": "Free Fire Amazon Appstore",
+                        "Ver": "1.108.1",
+                        "VerID": "2019117877",
+                        "InitBase": "0x7DCCA80"
+                    },
+                    "2": {
+                        "Name": "Free Fire XApk ApkCombo",
+                        "Ver": "1.106.1",
+                        "VerID": "2019117682",
+                        "InitBase": "0x78C3198"
+                    },
+                    "3": {
+                        "Name": "Free Fire PlayStore",
+                        "Ver": "1.108.1",
+                        "VerID": "2019117861",
+                        "InitBase": "0x7DB5D2C"
+                    },
+                    "4": {
+                        "Name": "Free Fire Apk Official Website",
+                        "Ver": "1.108.1",
+                        "VerID": "2019117877",
+                        "InitBase": "0x7DCCA80"
+                    }
+                },
+                "arm64-v8a": "Coming Soon..."
+            }
+        }
+    }
+}
